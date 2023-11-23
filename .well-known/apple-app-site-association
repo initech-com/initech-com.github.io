@@ -5,7 +5,7 @@
         "details":
         [
             {
-                "appID": "BN4D26VM76.com.initech.INIHuB",
+                "appID": "BN4D26VM76.com.initech.inihub.app",
                 "paths": ["/*"]
             }
         ]
